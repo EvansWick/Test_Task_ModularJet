@@ -1,0 +1,27 @@
+# Згенеровані рушієм папки та кеш
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Файли середовищ розробки (Visual Studio, Rider, VS Code)
+.vscode/
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.opendb
+*.VC.db
+*.xcworkspace/
+
+# Системні файли операційних систем
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
